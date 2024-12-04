@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to type coercion. The bug.js file shows how adding a number and a string leads to unexpected string concatenation instead of numerical addition. The bugSolution.js file provides a solution by explicitly converting the string to a number using parseInt() before performing the addition.
